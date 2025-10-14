@@ -1,5 +1,9 @@
 # CVSS
 
+## CVE
+Common Vulnerabilities and Exposures
+共通脆弱性識別子
+
 ## CVSS
 Common Vulnerability Scoring System
 脆弱性評価
