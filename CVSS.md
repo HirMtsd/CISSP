@@ -19,3 +19,7 @@ Known Exploited Vulnerabilities　catalog
 ## SSVC
 Stakeholder-Specific Vulnerability Categorization
 脆弱性の対応優先度
+
+## STIX
+
+
